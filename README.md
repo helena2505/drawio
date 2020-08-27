@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/jgraph/drawio.svg?branch=master)](https://travis-ci.com/jgraph/drawio)
-License
+Source
 -------
 Source repo https://github.com/jgraph/drawio
 
